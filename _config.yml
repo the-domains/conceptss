@@ -1,0 +1,28 @@
+name: Concept SS
+favicon: null
+layout_spectrum: 0.08097090688534081
+typography_spectrum: 0.9445552106481045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2508446464780718
+  lightness: 0.8912356612272561
+  saturation: 0.042395874159410596
+  rhythmicContrast: 0.5173523693811148
+purpose: []
